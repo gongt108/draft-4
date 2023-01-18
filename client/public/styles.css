@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.item-image {
+  width: 200px;
+  height: 300px;
+}
